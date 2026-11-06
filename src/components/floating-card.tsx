@@ -94,7 +94,7 @@ const FloatingCard = () => {
         target="_blank"
       >
         <button className="btn text-xs sm:text-sm md:text-base w-full mt-6 font-normal px-14 py-3 text-black uppercase rounded-3xl border-2 bg-[#28e98c] border-green-500 hover:border-green-500 hover:bg-[#1f1f1f] hover:text-[#28e98c] transition-all duration-300 ease-in-out">
-          Download Resume
+          View Resume
         </button>
       </a>
     </motion.aside>
