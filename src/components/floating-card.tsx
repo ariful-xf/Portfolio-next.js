@@ -8,7 +8,7 @@ const FloatingCard = () => {
       animate={{ x: 0 }}
       transition={{ duration: 0.5 }}
       id="floatingCard"
-      className="max-w-[500px] mx-auto lg:fixed lg:top-1/2 lg:left-4 transform lg:-translate-y-1/2 lg:w-[350px] p-4 sm:p-6 border border-gray-500 rounded-3xl shadow-lg text-center z-10"
+      className="max-w-[500px] mx-auto lg:fixed lg:top-1/2 lg:left-4 2xl:left-[calc(50%-768px+2rem)] transform lg:-translate-y-1/2 lg:w-[350px] p-4 sm:p-6 border border-gray-500 rounded-3xl shadow-lg text-center z-10"
     >
       <h1 className="pb-4 text-[28px] md:text-4xl font-bold text-center">
         {"< Ariful Islam />"}
