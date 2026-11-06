@@ -21,7 +21,7 @@ const Footer = () => {
         process.env.NEXT_PUBLIC_SERVICE_KEY,
         process.env.NEXT_PUBLIC_TEMPLATE_KEY,
         formRef.current,
-        process.env.NEXT_PUBLIC_PUBLIC_KEY
+        process.env.NEXT_PUBLIC_PUBLIC_KEY,
       )
       .then(
         () => {
@@ -29,9 +29,9 @@ const Footer = () => {
         },
         () => {
           toast.error(
-            "Failed to send Email. Maybe daily mail sending limit reached!"
+            "Failed to send Email. Maybe daily mail sending limit reached!",
           );
-        }
+        },
       );
   };
   const time = new Date().toDateString();
@@ -185,7 +185,7 @@ const Footer = () => {
               </g>
             </svg>
           </a>
-          <a target="_blank" href="https://github.com/ariful97768">
+          <a target="_blank" href="https://github.com/arifulxf">
             <svg
               className="fill-current hover:text-[#28e98c] hover:border-green-500 transition-all duration-300 border-2 rounded-full p-2 text-gray-500 border-gray-600 w-10 h-10"
               xmlns="http://www.w3.org/2000/svg"

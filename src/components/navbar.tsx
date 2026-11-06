@@ -105,8 +105,8 @@ const Navbar = () => {
         </a>
       </div>
       <a
-        href="Ariful_FullStack_Dev.pdf"
-        download={"Ariful_Full_Stack_Dev"}
+        href="https://drive.google.com/drive/folders/1Ce6m_7NdNOzs1wakpELgconpR9cVi7qE?usp=sharing"
+        target="_blank"
         className="absolute lg:hidden flex right-5 md:right-10 px-6 gap-1 py-2 items-center text-black uppercase rounded-3xl border-2 bg-[#28e98c] border-green-500 hover:border-green-500 hover:bg-[#1f1f1f] hover:text-[#28e98c] transition-all duration-300"
       >
         <MdOutlineDownload />

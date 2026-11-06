@@ -1,6 +1,4 @@
 import { LuUserRound } from "react-icons/lu";
-import map from "@/assets/maps-location-02-stroke-rounded.svg";
-import Image from "next/image";
 import * as motion from "motion/react-client";
 
 const About = () => {
@@ -28,28 +26,14 @@ const About = () => {
           <span className="text-[#28e98c] "> better architecture.</span>
         </h1>
         <p className="mt-8 text-sm md:text-base text-[#999999]">
-          I&apos;m a 20-year-old MERN-stack developer passionate about creating
-          scalable web applications and digital solutions. Over the past year,
+          I&apos;m a Full-stack developer passionate about creating
+          scalable web applications and digital solutions. Over the past years,
           I&apos;ve been dedicated to refining my skills, learning modern
           technologies, and tackling real-world challenges. I&apos;m quietly
-          confident, endlessly curious, and always refining my skills—one
+          confident, endlessly curious, and always refining my skills, one
           challenge at a time.
         </p>
       </motion.div>
-      {/* <div className="space-y-5">
-        <div className="flex items-center gap-6">
-          <Image src={map} alt="map" width={24} height={24} />
-          <p>Born in Habiganj City, Living in Sylhet, Bangladesh</p>
-        </div>
-        <div className="flex items-center gap-6">
-          <Image src={maps} alt="map" width={24} height={24} />
-          <p>Born in Habiganj City, Living in Sylhet, Bangladesh</p>
-        </div>
-        <div className="flex items-center gap-6">
-          <Image src={maps} alt="map" width={24} height={24} />
-          <p>Born in Habiganj City, Living in Sylhet, Bangladesh</p>
-        </div>
-      </div> */}
     </motion.section>
   );
 };

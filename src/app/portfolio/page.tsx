@@ -81,8 +81,8 @@ export default function Projects() {
           title="Akademi"
           subtitle="- Scholarship Management System"
           liveLink="https://akademi-uni.web.app/"
-          frontendRepo="https://github.com/ariful97768/Akademi-Scholarships-Management"
-          backendRepo="https://github.com/ariful97768/Akademi-Server"
+          frontendRepo="https://github.com/arifulxf/Akademi-Scholarships-Management"
+          backendRepo="https://github.com/arifulxf/Akademi-Server"
           description="Akademi is a web-based platform designed to streamline the
                 scholarship application and management process. It allows
                 students to apply for scholarships seamlessly while enabling
@@ -118,7 +118,7 @@ export default function Projects() {
           title="Design Forge"
           subtitle="Agency website clone"
           liveLink="https://design-forgee.vercel.app/"
-          frontendRepo="https://github.com/ariful97768/Design-Forge"
+          frontendRepo="https://github.com/arifulxf/Design-Forge"
           description="Design Forge — clone of ilmora.agency, A modern and dynamic agency website built with React and Tailwind CSS. It features a sleek, responsive design with smooth animations and interactive elements to showcase the agency's services and portfolio. A fully responsive single-page website — built to showcase modern web layout, responsiveness, and design precision understanding."
           technologies={[
             "Typescript",
@@ -133,8 +133,8 @@ export default function Projects() {
           title="Book Store"
           subtitle="Your go to Books library"
           liveLink="https://books-world-49b0c.web.app/"
-          frontendRepo="https://github.com/ariful97768/Book-Store"
-          backendRepo="https://github.com/ariful97768/Book-Store-Server"
+          frontendRepo="https://github.com/arifulxf/Book-Store"
+          backendRepo="https://github.com/arifulxf/Book-Store-Server"
           description="Books Store - A MERN-based Book Borrowing Platform. A full-stack
                 MERN application where users can browse books by category,
                 borrow and manage their borrowed list, return books, add new
@@ -167,7 +167,7 @@ export default function Projects() {
           title="Lingo Bingo"
           subtitle="Learn language with fun"
           liveLink="https://lingo-bingo-f6242.web.app/"
-          frontendRepo="https://github.com/ariful97768/Lingo-Bingo"
+          frontendRepo="https://github.com/arifulxf/Lingo-Bingo"
           description="Lingo Bingo is an interactive and engaging word-based game
                 platform that combines the excitement of Bingo with language
                 learning. Players can participate in fun and educational games,
@@ -198,7 +198,7 @@ export default function Projects() {
           title="MediRide"
           subtitle="Care in Every Mile"
           liveLink="https://mediride-three.vercel.app/"
-          frontendRepo="https://github.com/ariful97768/mediride"
+          frontendRepo="https://github.com/arifulxf/mediride"
           description="A premium, conversion-optimized landing page for a non-emergency medical transportation (NEMT) service in the Twin Cities. Includes healthcare facility partnership portals and patient-centric booking flows."
           technologies={["Typescript", "Next.js", "Tailwind CSS"]}
         />
@@ -208,7 +208,7 @@ export default function Projects() {
           title="Develop.me"
           subtitle="A Developer Portfolio"
           liveLink="https://developer-portfolio-ba016.web.app/"
-          frontendRepo="https://github.com/ariful97768/Developer-Portfolio"
+          frontendRepo="https://github.com/arifulxf/Developer-Portfolio"
           description="A modern, responsive, and elegant developer portfolio website built as part of a job task to demonstrate my attention to design detail, responsiveness, and ability to craft user-friendly interfaces."
           technologies={["JavaScript", "React", "Vite", "Tailwind CSS"]}
         />
@@ -218,7 +218,7 @@ export default function Projects() {
           title="Creative Hub IT"
           subtitle="A Creative Hub IT Portfolio"
           liveLink="https://creativehubit.com.bd/"
-          frontendRepo="https://github.com/ariful97768/Creative-Hub-Portfolio"
+          frontendRepo="https://github.com/arifulxf/Creative-Hub-Portfolio"
           description="A modern, responsive digital agency portfolio website built with Next.js, TypeScript, and Tailwind CSS. Developed as a technical assessment task based on a specific Figma design."
           technologies={[
             "Typescript",

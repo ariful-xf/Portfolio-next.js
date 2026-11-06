@@ -24,7 +24,7 @@ A personal portfolio website built with **Next.js** and **TypeScript** to showca
 ### Contact
 Ariful Islam -Website: ariful.tech
 
-GitHub: @ariful97768
+GitHub: @arifulxf
 Email: arifulxf@gmail.com
 
 If you like this portfolio, please give it a ⭐ star!

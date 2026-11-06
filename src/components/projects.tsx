@@ -63,8 +63,8 @@ const Projects = () => {
             title="Akademi"
             subtitle="- Scholarship Management System"
             liveLink="https://akademi-uni.web.app/"
-            frontendRepo="https://github.com/ariful97768/Akademi-Scholarships-Management"
-            backendRepo="https://github.com/ariful97768/Akademi-Server"
+            frontendRepo="https://github.com/arifulxf/Akademi-Scholarships-Management"
+            backendRepo="https://github.com/arifulxf/Akademi-Server"
             description="Akademi is a web platform that streamlines the scholarship application and management process. It allows students to apply for scholarships with ease while helping administrators review and process applications efficiently. Built with the MERN stack and Firebase Authentication, it provides secure access control, a smooth user experience, and an integrated payment gateway for fee submissions."
             technologies={[
               "JavaScript",
@@ -93,8 +93,8 @@ const Projects = () => {
             title="Book Store"
             subtitle="Your go to Books library"
             liveLink="https://books-world-49b0c.web.app/"
-            frontendRepo="https://github.com/ariful97768/Book-Store"
-            backendRepo="https://github.com/ariful97768/Book-Store-Server"
+            frontendRepo="https://github.com/arifulxf/Book-Store"
+            backendRepo="https://github.com/arifulxf/Book-Store-Server"
             description="Books Store - A MERN-based Book Borrowing Platform. A full-stack
                 MERN application where users can browse books by category,
                 borrow and manage their borrowed list, return books, add new
@@ -127,7 +127,7 @@ const Projects = () => {
             title="Design Forge"
             subtitle="Agency website clone"
             liveLink="https://design-forgee.vercel.app/"
-            frontendRepo="https://github.com/ariful97768/Design-Forge"
+            frontendRepo="https://github.com/arifulxf/Design-Forge"
             description="Design Forge is a modern agency website clone inspired by ilmora.agency. Built with React and Tailwind CSS, it features a sleek responsive layout, smooth animations, and interactive sections designed to showcase services and portfolio work with strong visual precision."
             technologies={[
               "Typescript",
