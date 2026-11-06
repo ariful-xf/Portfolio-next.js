@@ -1,0 +1,182 @@
+[
+  {
+    "index": 1,
+    "title": "Akademi",
+    "cardTitle": "Akademi",
+    "subtitle": "Scholarship Management System",
+    "modalId": "my_modal_akademi",
+    "image": "akademi",
+    "liveLink": "https://akademi-uni.web.app/",
+    "frontendRepo": "https://github.com/arifulxf/Akademi-Scholarships-Management",
+    "backendRepo": "https://github.com/arifulxf/Akademi-Server",
+    "isHomePlacement": true,
+    "showOnProjectsPage": true,
+    "description": "Akademi is a web-based platform designed to streamline the scholarship application and management process. It allows students to apply for scholarships seamlessly while enabling administrators to efficiently review and process applications. Built with the MERN stack and Firebase authentication, Akademi ensures a smooth user experience with secure access control. The platform also includes a payment gateway for fee submissions, making the process more convenient for users.",
+    "technologies": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express.js",
+      "Firebase Auth",
+      "Tailwind CSS",
+      "Stripe"
+    ],
+    "challenges": [
+      "Handling image uploads securely",
+      "Optimizing database queries for better performance",
+      "Defining clear permissions for Admins, Students, and Moderators without conflicts"
+    ],
+    "solutions": [
+      "Implemented a secure image upload system using the ImgBB API",
+      "Optimized database queries using indexing and aggregation pipelines",
+      "Implemented RBAC for secure access control"
+    ]
+  },
+  {
+    "index": 2,
+    "title": "Book Store",
+    "cardTitle": "Books World",
+    "subtitle": "Your go to Books library",
+    "modalId": "my_modal_bookstore",
+    "image": "bookStore",
+    "liveLink": "https://books-world-49b0c.web.app/",
+    "frontendRepo": "https://github.com/arifulxf/Book-Store",
+    "backendRepo": "https://github.com/arifulxf/Book-Store-Server",
+    "isHomePlacement": true,
+    "showOnProjectsPage": true,
+    "description": "Books Store - A MERN-based Book Borrowing Platform. A full-stack MERN application where users can browse books by category, borrow and manage their borrowed list, return books, add new books, update their own books, and explore top-rated books on the homepage.",
+    "technologies": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express.js",
+      "Firebase Auth",
+      "Tailwind CSS",
+      "React Toastify"
+    ],
+    "challenges": [
+      "Optimizing book search and filtering to deliver fast results for users",
+      "Displaying real-time stock updates to prevent over-borrowing",
+      "Preventing users from borrowing more than 3 books at a time"
+    ],
+    "solutions": [
+      "Implemented optimized search and filtering using a MongoDB aggregation pipeline",
+      "Used stock calculation before confirming borrow requests",
+      "Implemented user borrowing tracking"
+    ]
+  },
+  {
+    "index": 3,
+    "title": "Design Forge",
+    "cardTitle": "Design Forge",
+    "subtitle": "Agency website clone",
+    "modalId": "my_modal_designforgee",
+    "image": "designForgee",
+    "liveLink": "https://design-forgee.vercel.app/",
+    "frontendRepo": "https://github.com/arifulxf/Design-Forge",
+    "isHomePlacement": true,
+    "showOnProjectsPage": true,
+    "description": "Design Forge — clone of ilmora.agency, A modern and dynamic agency website built with React and Tailwind CSS. It features a sleek, responsive design with smooth animations and interactive elements to showcase the agency's services and portfolio work with strong visual precision.",
+    "technologies": [
+      "Typescript",
+      "Next.js",
+      "Tailwind CSS",
+      "React marquee"
+    ]
+  },
+  {
+    "index": 4,
+    "title": "Creative Hub IT",
+    "cardTitle": "Creative Hub IT",
+    "subtitle": "A Creative Hub IT Portfolio",
+    "modalId": "my_modal_creativehub",
+    "image": "creativeHub",
+    "liveLink": "https://creativehubit.com.bd/",
+    "frontendRepo": "https://github.com/arifulxf/Creative-Hub-Portfolio",
+    "isHomePlacement": true,
+    "showOnProjectsPage": true,
+    "description": "Creative Hub IT is a modern, responsive digital agency portfolio built with the MERN stack as a technical assessment project. Based on a Figma design, it delivers a polished, pixel-accurate interface, secure authentication, smooth admin-side content management, and reliable image handling for a seamless user experience.",
+    "technologies": [
+      "Typescript",
+      "Next.js",
+      "Motion",
+      "Tailwind CSS",
+      "Swipper.js",
+      "Node.js",
+      "MongoDB",
+      "Firebase Auth",
+      "Sweet Alert"
+    ],
+    "challenges": [
+      "Image hosting reliability: during development, I initially used ImgBB, but encountered server-side issues. I later migrated to Cloudinary for a more stable and scalable solution."
+    ]
+  },
+  {
+    "index": 5,
+    "title": "Lingo Bingo",
+    "cardTitle": "Lingo Bingo",
+    "subtitle": "Learn language with fun",
+    "modalId": "my_modal_lingo",
+    "image": "lingoBingo",
+    "liveLink": "https://lingo-bingo-f6242.web.app/",
+    "frontendRepo": "https://github.com/arifulxf/Lingo-Bingo",
+    "isHomePlacement": false,
+    "showOnProjectsPage": true,
+    "description": "Lingo Bingo is an interactive and engaging word-based game platform that combines the excitement of Bingo with language learning. Players can participate in fun and educational games, where they match words or phrases to improve their vocabulary. The website features a dynamic user interface built with React, with smooth animations and responsive design to enhance the user experience. Integrated with Firebase for user authentication and data management, Lingo Bingo ensures a secure and seamless experience.",
+    "technologies": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express.js",
+      "Firebase Auth",
+      "Tailwind CSS",
+      "React Toastify"
+    ],
+    "challenges": [
+      "Structuring and categorizing words or phrases for easy access."
+    ],
+    "solutions": [
+      "Implemented a dynamic and user-friendly interface"
+    ]
+  },
+  {
+    "index": 6,
+    "title": "MediRide",
+    "cardTitle": "MediRide",
+    "subtitle": "Care in Every Mile",
+    "modalId": "my_modal_mediride",
+    "image": "mediride",
+    "liveLink": "https://mediride-three.vercel.app/",
+    "frontendRepo": "https://github.com/arifulxf/mediride",
+    "isHomePlacement": false,
+    "showOnProjectsPage": true,
+    "description": "A premium, conversion-optimized landing page for a non-emergency medical transportation (NEMT) service in the Twin Cities. Includes healthcare facility partnership portals and patient-centric booking flows.",
+    "technologies": [
+      "Typescript",
+      "Next.js",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "index": 7,
+    "title": "Develop.me",
+    "cardTitle": "Develop.me",
+    "subtitle": "A Developer Portfolio",
+    "modalId": "my_modal_developme",
+    "image": "developme",
+    "liveLink": "https://developer-portfolio-ba016.web.app/",
+    "frontendRepo": "https://github.com/arifulxf/Developer-Portfolio",
+    "isHomePlacement": false,
+    "showOnProjectsPage": true,
+    "description": "A modern, responsive, and elegant developer portfolio website built as part of a job task to demonstrate my attention to design detail, responsiveness, and ability to craft user-friendly interfaces.",
+    "technologies": [
+      "JavaScript",
+      "React",
+      "Vite",
+      "Tailwind CSS"
+    ]
+  }
+]
